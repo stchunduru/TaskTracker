@@ -35,6 +35,12 @@
       "day": "Sunday",
       "reminder": false,
       "id": 6
+    },
+    {
+      "text": "Meditating",
+      "day": "Sunday",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
