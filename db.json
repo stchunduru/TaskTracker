@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "Monday",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Math test",
+      "day": "Tuesday",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Groceries",
+      "day": "Wednesday",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Gardening",
+      "day": "Friday",
+      "reminder": true
+    },
+    {
+      "text": "Fishing",
+      "day": "Saturday",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Hunting",
+      "day": "Sunday",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
